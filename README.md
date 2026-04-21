@@ -37,8 +37,3 @@ DSA/
 ├── Recursion/
 ├── DynamicProgramming/
 ```
-
-
-
-
-Chaitanya Shinde
