@@ -21,6 +21,7 @@ int partition(int low, int high){
             A[right] = temp;
         }
     }
+    
     int temp = A[low];
     A[low] = A[right];
     A[right] = temp;
