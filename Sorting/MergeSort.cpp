@@ -49,8 +49,7 @@ int main(){
 
     mergesort(0,n-1);
 
-    cout<<endl;
-    cout<<"Sorted Array: \n";
+    cout<<"\nSorted Array: \n";
     for(int i=0; i<n; i++)
         cout<<A[i] <<" ";
 
