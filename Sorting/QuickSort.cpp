@@ -46,15 +46,14 @@ int main(){
 
     cout<<"Enter array elements: ";
     for(int i=0; i<n; i++){
-        cin>>A[i];
+        cin>> A[i];
     }
 
-    quicksort(0,n-1);
+    quicksort(0, n-1);
 
     cout<<"Sorted Array: ";
     for(int i=0; i<n; i++){
         cout<<A[i]<<" ";
     }
-
     return 0;
 }
