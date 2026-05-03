@@ -57,13 +57,13 @@ void display(){
 }
 
 int main(){
-    int ele, ch;
+    int ele, choice;
 
     while(true){
         cout<<"\n1.Insert\n2.Delete\n3.Display\n4.Exit\n";
         cin>>ch;
 
-        switch(ch){
+        switch(choice){
             case 1: cout<<"Enter a element: ";
                     cin>>ele;
                     Insert(ele);
