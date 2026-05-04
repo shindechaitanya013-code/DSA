@@ -2,8 +2,8 @@
 using namespace std;
 
 #define MAXSIZE 5
-
 int queue[MAXSIZE];
+
 int front = -1, rear = -1;
 
 void Insert(int ele){
