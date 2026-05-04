@@ -25,7 +25,7 @@ void Insert(int ele){
     }
 }
 
-void del(){
+void delete(){
     if(front == -1){
         cout<<"Queue is empty.\n";
     }
@@ -76,7 +76,7 @@ int main(){
                     cin>>ele;
                     Insert(ele);
                     break;
-            case 2: del();
+            case 2: delete();
                     break;
             case 3: display();
                     break;
