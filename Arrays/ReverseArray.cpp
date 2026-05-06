@@ -1,6 +1,6 @@
 #include<iostream>
-#include<algorithm>
 using namespace std;
+#include<algorithm>
 
 void reverseArr(int arr[], int size){
     int start = 0;
