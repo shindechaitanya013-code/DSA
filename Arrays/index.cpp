@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    int nums[] = {22, 45, -6, 87, 2};
+    int nums[] = {22, 45, -5, 87, 2};
     int size = 5;
 
     int smallest = nums[0];
@@ -14,7 +14,6 @@ int main(){
             index = i;
         }
     }
-
     cout << "Index of Smallest = " << index << endl;
 
     return 0;
