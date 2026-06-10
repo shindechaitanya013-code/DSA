@@ -1,4 +1,4 @@
-# Data Structures and Algorithms (DSA)
+# Data Structures and Algorithms(DSA)
 
 This repository contains basic to intermediate Data Structures and Algorithms programs for practice and learning.
 
@@ -6,7 +6,7 @@ This repository contains basic to intermediate Data Structures and Algorithms pr
 
 * Arrays
 * Searching (Linear Search, Binary Search)
-* Sorting (Bubble, Selection, Insertion, etc.)
+* Sorting (Bubble, Selection, Insertion, all)
 * Linked List (Singly, Doubly)
 * Stack
 * Queue (Simple, Circular)
